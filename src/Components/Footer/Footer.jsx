@@ -146,7 +146,7 @@ const Footer = () => {
             <p className="copyright">
               &copy; {year} world tour. All Rights Reserved.
               Designed and Developed By{" "}
-               <Link to="https://shuence.netlify.app">CodeShuence</Link> 
+               <Link to="https://rohit-portfolio-phi-woad.vercel.app/">rohit-we-developer</Link>  
             </p>
           </Col>
         </Row>
